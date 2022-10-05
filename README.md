@@ -179,7 +179,7 @@ def plot_decision_regions(x, y):
 
 plot_decision_regions(x_test, y_test)
 ```
-output
+
 ![image](https://user-images.githubusercontent.com/112486797/193975158-8b03ab84-d670-4654-b057-84a34a9b830b.png)
 ```
 RESULT
